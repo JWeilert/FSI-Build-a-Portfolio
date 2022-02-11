@@ -11,9 +11,11 @@ img {
   background: rgb(140, 113, 104);
   padding: 7px;
   border: 5px solid rgb(80, 66, 61);
+  border-radius: 20px;
 }
 .PBorder {
   background: rgb(113, 93, 87);
   padding: 5px;
   border: 5px solid rgb(80, 66, 61);
+  border-radius: 20px;
 }
