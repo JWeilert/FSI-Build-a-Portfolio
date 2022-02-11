@@ -1,0 +1,19 @@
+.resize {
+  width: 300px;
+  height: auto;
+}
+body {
+  cursor: cell;
+  background-image: linear-gradient(45deg, rgb(36, 36, 85), rgb(21, 201, 242));
+  color: bisque;
+}
+img {
+  background: rgb(140, 113, 104);
+  padding: 7px;
+  border: 5px solid rgb(80, 66, 61);
+}
+.PBorder {
+  background: rgb(113, 93, 87);
+  padding: 5px;
+  border: 5px solid rgb(80, 66, 61);
+}
